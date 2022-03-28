@@ -1,0 +1,11 @@
+B:\PROJECTS\Task1_CryptFile\Task1_CryptFile\bin\Debug\Task1_CryptFile.exe.config
+B:\PROJECTS\Task1_CryptFile\Task1_CryptFile\bin\Debug\Task1_CryptFile.exe
+B:\PROJECTS\Task1_CryptFile\Task1_CryptFile\bin\Debug\Task1_CryptFile.pdb
+B:\PROJECTS\Task1_CryptFile\Task1_CryptFile\obj\Debug\Task1_CryptFile.csproj.AssemblyReference.cache
+B:\PROJECTS\Task1_CryptFile\Task1_CryptFile\obj\Debug\Task1_CryptFile.csproj.SuggestedBindingRedirects.cache
+B:\PROJECTS\Task1_CryptFile\Task1_CryptFile\obj\Debug\Task1_CryptFile.Form1.resources
+B:\PROJECTS\Task1_CryptFile\Task1_CryptFile\obj\Debug\Task1_CryptFile.Properties.Resources.resources
+B:\PROJECTS\Task1_CryptFile\Task1_CryptFile\obj\Debug\Task1_CryptFile.csproj.GenerateResource.cache
+B:\PROJECTS\Task1_CryptFile\Task1_CryptFile\obj\Debug\Task1_CryptFile.csproj.CoreCompileInputs.cache
+B:\PROJECTS\Task1_CryptFile\Task1_CryptFile\obj\Debug\Task1_CryptFile.exe
+B:\PROJECTS\Task1_CryptFile\Task1_CryptFile\obj\Debug\Task1_CryptFile.pdb

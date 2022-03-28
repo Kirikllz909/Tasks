@@ -1,0 +1,15 @@
+B:\PROJECTS\Task2Ports\Task2Ports\bin\Debug\Task2Ports.exe.config
+B:\PROJECTS\Task2Ports\Task2Ports\bin\Debug\Task2Ports.exe
+B:\PROJECTS\Task2Ports\Task2Ports\bin\Debug\Task2Ports.pdb
+B:\PROJECTS\Task2Ports\Task2Ports\obj\Debug\Task2Ports.csproj.AssemblyReference.cache
+B:\PROJECTS\Task2Ports\Task2Ports\obj\Debug\Task2Ports.csproj.SuggestedBindingRedirects.cache
+B:\PROJECTS\Task2Ports\Task2Ports\obj\Debug\MainWindow.baml
+B:\PROJECTS\Task2Ports\Task2Ports\obj\Debug\MainWindow.g.cs
+B:\PROJECTS\Task2Ports\Task2Ports\obj\Debug\App.g.cs
+B:\PROJECTS\Task2Ports\Task2Ports\obj\Debug\Task2Ports_MarkupCompile.cache
+B:\PROJECTS\Task2Ports\Task2Ports\obj\Debug\Task2Ports.g.resources
+B:\PROJECTS\Task2Ports\Task2Ports\obj\Debug\Task2Ports.Properties.Resources.resources
+B:\PROJECTS\Task2Ports\Task2Ports\obj\Debug\Task2Ports.csproj.GenerateResource.cache
+B:\PROJECTS\Task2Ports\Task2Ports\obj\Debug\Task2Ports.csproj.CoreCompileInputs.cache
+B:\PROJECTS\Task2Ports\Task2Ports\obj\Debug\Task2Ports.exe
+B:\PROJECTS\Task2Ports\Task2Ports\obj\Debug\Task2Ports.pdb

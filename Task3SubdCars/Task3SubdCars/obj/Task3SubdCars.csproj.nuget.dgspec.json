@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "B:\\PROJECTS\\Task3SubdCars\\Task3SubdCars\\Task3SubdCars.csproj": {}
+  },
+  "projects": {
+    "B:\\PROJECTS\\Task3SubdCars\\Task3SubdCars\\Task3SubdCars.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\PROJECTS\\Task3SubdCars\\Task3SubdCars\\Task3SubdCars.csproj",
+        "projectName": "Task3SubdCars",
+        "projectPath": "B:\\PROJECTS\\Task3SubdCars\\Task3SubdCars\\Task3SubdCars.csproj",
+        "packagesPath": "C:\\Users\\kirik\\.nuget\\packages\\",
+        "outputPath": "B:\\PROJECTS\\Task3SubdCars\\Task3SubdCars\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "B:\\Visual Studio SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kirik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[5.8.8, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
